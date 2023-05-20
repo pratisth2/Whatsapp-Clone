@@ -98,9 +98,7 @@ public class SettingsActivity extends AppCompatActivity {
                 intent.setType("image/*");
                 startActivityForResult(intent,33);
             }
-
-
-//                ((Activity) context).startActivityForResult(intent, 33);
+            
 
 
 
